@@ -40,6 +40,19 @@ function Home() {
            leftBtnText="Order now"
            rightBtnText="Learn more"
         />
+        <Section 
+           title="Solar for New Roofs"
+           description="Solar Roofs Cost Less Then a New Roof"
+           backgroundImg="solar-roof.jpg"
+           leftBtnText="Order now"
+           rightBtnText="Learn more"
+        />
+        <Section 
+           title="Accessories"
+           description=""
+           backgroundImg="accessories.jpg"
+           leftBtnText="Shop now"
+        />
       </Container>
   )
 }
