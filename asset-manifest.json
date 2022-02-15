@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Drivione/static/css/main.c2a5159d.css",
-    "main.js": "/Drivione/static/js/main.beb65150.js",
-    "index.html": "/Drivione/index.html",
-    "main.c2a5159d.css.map": "/Drivione/static/css/main.c2a5159d.css.map",
-    "main.beb65150.js.map": "/Drivione/static/js/main.beb65150.js.map"
+    "main.css": "/Tesla-clone/static/css/main.c2a5159d.css",
+    "main.js": "/Tesla-clone/static/js/main.5e66c6e8.js",
+    "index.html": "/Tesla-clone/index.html",
+    "main.c2a5159d.css.map": "/Tesla-clone/static/css/main.c2a5159d.css.map",
+    "main.5e66c6e8.js.map": "/Tesla-clone/static/js/main.5e66c6e8.js.map"
   },
   "entrypoints": [
     "static/css/main.c2a5159d.css",
-    "static/js/main.beb65150.js"
+    "static/js/main.5e66c6e8.js"
   ]
 }
